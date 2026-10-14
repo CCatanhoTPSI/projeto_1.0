@@ -1,0 +1,66 @@
+#author{
+    color: red;
+}
+
+.main-header{
+    background-color: #b1aeae;
+    text-align: left;
+    color: #4d9193;
+    font-style: italic;
+}
+.main-header a{
+    background-color: #b1aeae;
+    text-align: left;
+    color: #4d9193;
+    font-style: italic;
+}
+.post-header{
+    background-color: #f1f1f1;
+    text-align: left;
+    color: #4d9193;
+}
+
+p, li{
+    text-align: left;
+    text-indent: 50px;
+    color:grey;
+}
+
+h3{
+    color: #4d9193;
+}
+
+article a{
+    color: #4d9193;
+    font-style: italic;
+}
+
+aside{
+    background-color:grey;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+aside a{
+    color: #067c81;
+    font-style: normal;
+    text-align: left;
+    font-size: 18px;
+}
+
+aside p{
+    color: #0b0b0b;
+    font-style: normal;
+    text-align: left;
+}
+
+aside {
+    border-top: 4px solid #067c81;
+    border-bottom: 4px solid #067c81;
+}
+footer{
+    color: #0b0b0b;
+    text-align: right;
+    font-style: italic;
+    font-size: 10px;
+}
